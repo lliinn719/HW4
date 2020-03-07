@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Microsoft JhengHei;
+}
+.wrapper {
+    width: 100%;
+    margin: 0px auto;
+}
+header {
+    width: 1080px;
+    margin: 50px auto ;
+    text-align: center;
+}
+.wrapper span , .wrapper a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #000;
+    line-height: 50px;
+    font-weight: bold;
+}
+.wrapper span {
+    font-size: 24px;
+}
+.wrapper a:hover {
+    text-decoration: underline #000;
+}
+.wrapper img {
+    width: 30%;
+    height: 30%;
+    margin: 0px auto;
+}
